@@ -2,7 +2,7 @@
 
 int main()
 {
-        har estado_1[15], cidade_1[30], codigo_carta_1[10], estado_2[15], cidade_2[30], codigo_carta_2[10]; //VARIAVEIS DAS CARTAS 1 E 2
+ char estado_1[15], cidade_1[30], codigo_carta_1[10], estado_2[15], cidade_2[30], codigo_carta_2[10]; //VARIAVEIS DAS CARTAS 1 E 2
     int pontos_turisticos_1, populacao_1, pontos_turisticos_2, populacao_2;
     float area_1, PIB_1, area_2, PIB_2;
 
