@@ -39,7 +39,7 @@ int main()
     printf("\n");
     printf("\n======== Cartas Super Trunfo: =========\n"); //IMPRIME NA TELA OS DADOS DA CARTA 1 CADASTRADA
     printf("********** Carta 1: ********** \n");
-    printf("Estado: %.1s \n", estado_1);
+    printf("Estado: %s \n", estado_1);
     printf("Codigo da carta: %s \n", codigo_carta_1);
     printf("Nome da cidade: %s \n", cidade_1);
     printf("Populacao: %d habitantes \n",populacao_1);
@@ -77,7 +77,7 @@ int main()
 
     printf("\n======== Cartas Super Trunfo: =========\n"); //IMPRIME NA TELA OS DADOS DA CARTA 2 CADASTRADA
     printf("********** Carta 2: ********** \n");
-    printf("Estado: %.1s \n", estado_2);
+    printf("Estado: %s \n", estado_2);
     printf("Codigo da carta: %s \n", codigo_carta_2);
     printf("Nome da cidade: %s \n", cidade_2);
     printf("Populacao: %d habitantes \n",populacao_2);
