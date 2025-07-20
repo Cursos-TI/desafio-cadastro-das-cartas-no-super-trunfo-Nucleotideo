@@ -11,7 +11,7 @@ int main()
     int resultado_area, resultado_populacao, resultado_PIB, resultado_pontosTuristicos, 
         resultado_densiPopulacional, resultado_PIB_percapita, resultado_superPoder;  // Variáveis para armazenar os resultados das comparações
 
-
+ 
 
     printf("############################################################################## \n");
     printf("#                                                                            #\n");
